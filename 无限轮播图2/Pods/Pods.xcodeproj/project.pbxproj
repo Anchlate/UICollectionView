@@ -1,0 +1,480 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		48CB013E52D0350ECFBAC81BF3ED0BED /* Pods-XLsn0wLoop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE209A70C416A15F161A4BDA5F710C2 /* Pods-XLsn0wLoop-dummy.m */; };
+		555FAFADAD52F90BE0AB7F12247E6D27 /* XLsn0wLoop.m in Sources */ = {isa = PBXBuildFile; fileRef = 9474D4A66B244FE8D78D9CBD7871C02A /* XLsn0wLoop.m */; };
+		5CCF34831B0ED1DB982B62CC719E6667 /* XLsn0wLoop.h in Headers */ = {isa = PBXBuildFile; fileRef = D1F33F85F580FE08A3205DA539AD452D /* XLsn0wLoop.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B8EB612937E5C09632F9D46F07DFB0EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		C38EE68583B89C8A9CE7BCDA01BFDD0B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		EA997ACA664BF2708209353840B799E6 /* XLsn0wLoop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E356892D164DC2CEF84ED4058982CAD6 /* XLsn0wLoop-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C9710274B007104AB8FE984BF80420F9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E885D25A129F8098D3447BE4676C437E;
+			remoteInfo = XLsn0wLoop;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		16676B1E6E5CE29D6AA94258A04AA488 /* Pods-XLsn0wLoop.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XLsn0wLoop.release.xcconfig"; sourceTree = "<group>"; };
+		17EEC5E13D320913C6AB6B30D3687B90 /* Pods-XLsn0wLoop.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XLsn0wLoop.debug.xcconfig"; sourceTree = "<group>"; };
+		2B5C3BE585994ABA598574B5F5BE9282 /* XLsn0wLoop-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XLsn0wLoop-prefix.pch"; sourceTree = "<group>"; };
+		4341E28720409C6AE58C66C661643CD5 /* XLsn0wLoop.png */ = {isa = PBXFileReference; includeInIndex = 1; name = XLsn0wLoop.png; path = XLsn0w/XLsn0wLoop/XLsn0wLoop.png; sourceTree = "<group>"; };
+		5AF20239CAFECAD3C3E1872BA5AE5495 /* libXLsn0wLoop.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libXLsn0wLoop.a; path = libXLsn0wLoop.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F975AF166E67426DF8645AAE7DA720B /* Pods-XLsn0wLoop-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XLsn0wLoop-frameworks.sh"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9474D4A66B244FE8D78D9CBD7871C02A /* XLsn0wLoop.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XLsn0wLoop.m; path = XLsn0w/XLsn0wLoop/XLsn0wLoop.m; sourceTree = "<group>"; };
+		9514B4702BAA0AA1E8C7E331DC9CFCC9 /* Pods-XLsn0wLoop-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XLsn0wLoop-acknowledgements.plist"; sourceTree = "<group>"; };
+		A387BAABC0B6D65E9614D5D96ACD92C6 /* Pods-XLsn0wLoop-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XLsn0wLoop-acknowledgements.markdown"; sourceTree = "<group>"; };
+		ABE209A70C416A15F161A4BDA5F710C2 /* Pods-XLsn0wLoop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XLsn0wLoop-dummy.m"; sourceTree = "<group>"; };
+		C3F86BF118E77CDE1A00C21EFF282078 /* XLsn0wLoop.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XLsn0wLoop.xcconfig; sourceTree = "<group>"; };
+		C786250618E2877CF7FF1BA83882B031 /* Pods-XLsn0wLoop-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XLsn0wLoop-resources.sh"; sourceTree = "<group>"; };
+		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D1F33F85F580FE08A3205DA539AD452D /* XLsn0wLoop.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XLsn0wLoop.h; path = XLsn0w/XLsn0wLoop/XLsn0wLoop.h; sourceTree = "<group>"; };
+		E356892D164DC2CEF84ED4058982CAD6 /* XLsn0wLoop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XLsn0wLoop-dummy.m"; sourceTree = "<group>"; };
+		E7FFA47569FB2131B0A9B17DBB2B922E /* libPods-XLsn0wLoop.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XLsn0wLoop.a"; path = "libPods-XLsn0wLoop.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		495EA61B005301647D534F62656F45EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B8EB612937E5C09632F9D46F07DFB0EC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F94E46A9330EA29AAD39FD9CF3D0F3D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C38EE68583B89C8A9CE7BCDA01BFDD0B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03DE318282ED6454A1539B16ACA5B7AD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E7FFA47569FB2131B0A9B17DBB2B922E /* libPods-XLsn0wLoop.a */,
+				5AF20239CAFECAD3C3E1872BA5AE5495 /* libXLsn0wLoop.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		21C804B165C30D336A0BE6372BFE80B0 /* XLsn0wLoop */ = {
+			isa = PBXGroup;
+			children = (
+				D1F33F85F580FE08A3205DA539AD452D /* XLsn0wLoop.h */,
+				9474D4A66B244FE8D78D9CBD7871C02A /* XLsn0wLoop.m */,
+				34A68F6C08D5F62B46247D61F3357ACF /* Resources */,
+				63475B21F65900DED8A4F4486F6847C3 /* Support Files */,
+			);
+			name = XLsn0wLoop;
+			path = XLsn0wLoop;
+			sourceTree = "<group>";
+		};
+		34A68F6C08D5F62B46247D61F3357ACF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4341E28720409C6AE58C66C661643CD5 /* XLsn0wLoop.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		63475B21F65900DED8A4F4486F6847C3 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C3F86BF118E77CDE1A00C21EFF282078 /* XLsn0wLoop.xcconfig */,
+				E356892D164DC2CEF84ED4058982CAD6 /* XLsn0wLoop-dummy.m */,
+				2B5C3BE585994ABA598574B5F5BE9282 /* XLsn0wLoop-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/XLsn0wLoop";
+			sourceTree = "<group>";
+		};
+		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				F6C16E546C837F45E8D2AEFDA01CC19D /* Pods */,
+				03DE318282ED6454A1539B16ACA5B7AD /* Products */,
+				EDE34ABD3F3B9E566A320C3E168716C0 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EDE34ABD3F3B9E566A320C3E168716C0 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F0BEF81A24240B2C954D9C3E7C30AFB3 /* Pods-XLsn0wLoop */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		F0BEF81A24240B2C954D9C3E7C30AFB3 /* Pods-XLsn0wLoop */ = {
+			isa = PBXGroup;
+			children = (
+				A387BAABC0B6D65E9614D5D96ACD92C6 /* Pods-XLsn0wLoop-acknowledgements.markdown */,
+				9514B4702BAA0AA1E8C7E331DC9CFCC9 /* Pods-XLsn0wLoop-acknowledgements.plist */,
+				ABE209A70C416A15F161A4BDA5F710C2 /* Pods-XLsn0wLoop-dummy.m */,
+				6F975AF166E67426DF8645AAE7DA720B /* Pods-XLsn0wLoop-frameworks.sh */,
+				C786250618E2877CF7FF1BA83882B031 /* Pods-XLsn0wLoop-resources.sh */,
+				17EEC5E13D320913C6AB6B30D3687B90 /* Pods-XLsn0wLoop.debug.xcconfig */,
+				16676B1E6E5CE29D6AA94258A04AA488 /* Pods-XLsn0wLoop.release.xcconfig */,
+			);
+			name = "Pods-XLsn0wLoop";
+			path = "Target Support Files/Pods-XLsn0wLoop";
+			sourceTree = "<group>";
+		};
+		F6C16E546C837F45E8D2AEFDA01CC19D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				21C804B165C30D336A0BE6372BFE80B0 /* XLsn0wLoop */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		B749A1C355D73DDF8903E96149B0F7AF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5CCF34831B0ED1DB982B62CC719E6667 /* XLsn0wLoop.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		6FF521FDC8BD038A3D7C329D5A0D003B /* Pods-XLsn0wLoop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 54FC836820A0DED72B72EC1316F54E82 /* Build configuration list for PBXNativeTarget "Pods-XLsn0wLoop" */;
+			buildPhases = (
+				67FEB1F437BB3CA1F0B1D1AEDE12478B /* Sources */,
+				F94E46A9330EA29AAD39FD9CF3D0F3D4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6EBAF0188F3F6FAD75244C31C875DB68 /* PBXTargetDependency */,
+			);
+			name = "Pods-XLsn0wLoop";
+			productName = "Pods-XLsn0wLoop";
+			productReference = E7FFA47569FB2131B0A9B17DBB2B922E /* libPods-XLsn0wLoop.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E885D25A129F8098D3447BE4676C437E /* XLsn0wLoop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D578CE92EC3F6A134E9115D4E4F9658B /* Build configuration list for PBXNativeTarget "XLsn0wLoop" */;
+			buildPhases = (
+				B9E207186BA41090E8DAA8DD3F664C45 /* Sources */,
+				495EA61B005301647D534F62656F45EC /* Frameworks */,
+				B749A1C355D73DDF8903E96149B0F7AF /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = XLsn0wLoop;
+			productName = XLsn0wLoop;
+			productReference = 5AF20239CAFECAD3C3E1872BA5AE5495 /* libXLsn0wLoop.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 03DE318282ED6454A1539B16ACA5B7AD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6FF521FDC8BD038A3D7C329D5A0D003B /* Pods-XLsn0wLoop */,
+				E885D25A129F8098D3447BE4676C437E /* XLsn0wLoop */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		67FEB1F437BB3CA1F0B1D1AEDE12478B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				48CB013E52D0350ECFBAC81BF3ED0BED /* Pods-XLsn0wLoop-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9E207186BA41090E8DAA8DD3F664C45 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA997ACA664BF2708209353840B799E6 /* XLsn0wLoop-dummy.m in Sources */,
+				555FAFADAD52F90BE0AB7F12247E6D27 /* XLsn0wLoop.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6EBAF0188F3F6FAD75244C31C875DB68 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = XLsn0wLoop;
+			target = E885D25A129F8098D3447BE4676C437E /* XLsn0wLoop */;
+			targetProxy = C9710274B007104AB8FE984BF80420F9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		015A368F878AC3E2CEAE21DDE8026304 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		44CDBB6D11DE06DB64D6268622BDC47E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		44E7DE13BA4E35A4588187E7F650716F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C3F86BF118E77CDE1A00C21EFF282078 /* XLsn0wLoop.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/XLsn0wLoop/XLsn0wLoop-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		640C8CB9022776411246A07B46A02886 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 16676B1E6E5CE29D6AA94258A04AA488 /* Pods-XLsn0wLoop.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		838EB87E72216E7D9AE48616910A4587 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 17EEC5E13D320913C6AB6B30D3687B90 /* Pods-XLsn0wLoop.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D350356F39A939EC9E9A9CF7D0C257F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C3F86BF118E77CDE1A00C21EFF282078 /* XLsn0wLoop.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/XLsn0wLoop/XLsn0wLoop-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				015A368F878AC3E2CEAE21DDE8026304 /* Debug */,
+				44CDBB6D11DE06DB64D6268622BDC47E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		54FC836820A0DED72B72EC1316F54E82 /* Build configuration list for PBXNativeTarget "Pods-XLsn0wLoop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				838EB87E72216E7D9AE48616910A4587 /* Debug */,
+				640C8CB9022776411246A07B46A02886 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D578CE92EC3F6A134E9115D4E4F9658B /* Build configuration list for PBXNativeTarget "XLsn0wLoop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44E7DE13BA4E35A4588187E7F650716F /* Debug */,
+				D350356F39A939EC9E9A9CF7D0C257F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
